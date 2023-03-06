@@ -2,4 +2,5 @@
     <string name="app_name">Make Robert Great Again</string>
     <string name="close">Schließen</string>
     <string name="reset">Reset</string>
+    <string name="robert">Robert</string>
 </resources>
